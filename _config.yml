@@ -1,0 +1,22 @@
+title: Jeksite
+description: >-
+  Plain and simple Jekyll site template ideal for GitHub Pages.
+
+baseurl: /broken-jekyll
+domain: remino.github.io
+url: https://remino.github.io
+
+data_dir: data
+destination: site
+includes_dir: includes
+layouts_dir: layouts
+source: src
+
+sass:
+  sass_dir: sass
+
+defaults:
+  - scope:
+      type: "pages"
+    values:
+      layout: default

@@ -1,0 +1,5 @@
+---
+layouts: default
+---
+
+# Layout specified
